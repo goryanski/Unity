@@ -1,0 +1,11 @@
+Создать не большой городок (3-5 зданий) в горах (вершины в снегу)
+Добавить Жителей городка 
+Добавить анимации персонажу лежать, сидеть , ползти .....
+Исключить прохождение сквозь стены
+
+
+Материалы:
+mixamo.com
+https://assetstore.unity.com/packages/3d/environments/historic/lowpoly-medieval-buildings-58289
+https://assetstore.unity.com/packages/3d/environments/landscapes/winter-zone-mini-107583
+
